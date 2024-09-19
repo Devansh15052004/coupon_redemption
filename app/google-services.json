@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "950143547158",
+    "project_id": "sem5-project-ef115",
+    "storage_bucket": "sem5-project-ef115.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950143547158:android:6b8e69ce2205d5e961c237",
+        "android_client_info": {
+          "package_name": "com.example.sem5_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-NP-bQCjekAdyzTuHKPJb5xj--AReWnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
